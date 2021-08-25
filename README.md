@@ -1,6 +1,6 @@
 # Basic RESTServer
 
-### Firs, install all packages
+### First, install all packages
 ```
     npm install
 ```
