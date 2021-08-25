@@ -1,11 +1,11 @@
-### Basic RESTServer
+# Basic RESTServer
 
-# Firs, install all packages
+### Firs, install all packages
 ```
     npm install
 ```
 
-# Then, run the restserver
+### Then, run the restserver
 ```
     npm run dev
 ```
